@@ -1,1 +1,1 @@
-Project README file 
+RooScript - o'zbek dasturchilari tomonidan yaratilgan o'zbekcha dasturlash tili!
