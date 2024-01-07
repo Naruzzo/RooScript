@@ -1,1 +1,1 @@
-RooScript - o'zbek dasturchilari tomonidan yaratilgan o'zbekcha dasturlash tili!
+RooScript - o'zbek dasturchilari tomonidan yaratilgan o'zbekcha dasturlash tili! ![Alt text](https://cdn.dribbble.com/users/1960/screenshots/2093099/media/e4dc1ac50d576750a26bf09502982327.jpg?resize=400x0)
